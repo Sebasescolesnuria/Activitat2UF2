@@ -17,6 +17,7 @@
         </div>
     </form>
 </div>
+<br><a href="<?=BASE?>user/register">Registrarse<br>
 <?php
 
     include 'footer.tpl.php';

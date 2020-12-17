@@ -16,6 +16,7 @@
         </div>
     </form>
 </div>
+<br><a href="<?=BASE?>user/login">Logearse<br>
 <?php
 
     include 'footer.tpl.php';
