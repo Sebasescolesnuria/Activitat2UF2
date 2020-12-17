@@ -1,0 +1,20 @@
+{
+    "conf_dev":{
+        "driver":"mysql",
+        "dbhost":"localhost", 
+        "dbname":"prouf1",
+        "dbuser":"prouf1",
+        "dbpass":"linuxlinux",
+        "web":"/",
+        "root":"/"
+    },
+    "conf_pro":{
+        "driver":"mysql",
+        "dbhost":"nose.cesnuria.com",
+        "dbname":"NoSe_prouf1",
+        "dbuser":"NoSe_prouf1",
+        "dbpass":"linuxlinux",
+        "web":"/m7/todofw/",
+        "root":"/m7/todofw/"
+    }
+}
